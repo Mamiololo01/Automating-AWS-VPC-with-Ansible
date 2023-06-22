@@ -1,7 +1,10 @@
 # Automating-AWS-VPC-with-Ansible
 Implementing automation in AWS PVC services using Ansible playbook
 
-To eliminate manual process and human errors in deploying PVC services in cloud, we are going to automate the process using Ansible.  The following are the advantages of using Ansible:
+<img width="1248" alt="Screenshot 2023-06-22 at 15 24 18" src="https://github.com/Mamiololo01/Automating-AWS-VPC-with-Ansible/assets/67044030/aa8498cd-53a2-4835-92a7-f8614949e6ab">
+
+
+To eliminate manual process and human errors in deploying PVC services in cloud, we are going to automate the process using Ansible.  The following are some of the advantages of using Ansible:
 
 Configuration management of VPC
 
