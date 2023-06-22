@@ -1,6 +1,8 @@
 # Automating-AWS-VPC-with-Ansible
 Implementing automation in AWS PVC services using Ansible playbook
 
+NETWORK ARCHITECTURE
+
 <img width="1248" alt="Screenshot 2023-06-22 at 15 24 18" src="https://github.com/Mamiololo01/Automating-AWS-VPC-with-Ansible/assets/67044030/aa8498cd-53a2-4835-92a7-f8614949e6ab">
 
 
@@ -14,7 +16,8 @@ Centralize change management
 
 Version control (IAAC)
 
-Required tools
+
+REQUIRED TOOLS
 
 Ansible (configuration management of VPC)
 
@@ -22,7 +25,8 @@ AWS (VPC set up with bastion host)
 
 Python boto3
 
-Flow of execution
+
+EXECUTION FLOW
 
 Login to AWS
 
